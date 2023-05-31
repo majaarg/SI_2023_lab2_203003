@@ -7,7 +7,7 @@
 
 ### Control Flow Graph
 
-![ControlFlowGraph drawio](https://github.com/majaarg/SI_2023_lab2_203003/assets/86935512/2ade999c-33f8-4b75-bdb9-ff77f26a7c10)
+
 
 ### Цикломатска комплексност
 
